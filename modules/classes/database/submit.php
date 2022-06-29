@@ -1,5 +1,5 @@
 <?php
-require_once ("../connect.php");
+require_once ("/var/www/test.com/public_html/modules/classes/connect.php");
 
 class SubmitClass {
   public function showInfo(){

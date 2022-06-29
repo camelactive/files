@@ -2,8 +2,8 @@
 class ConnectToDatabase {
      public $host ='localhost';
      public $user ='root';
-     public $password ='';
-     public $dbname ='datafirst';
+     public $password ='root';
+     public $dbname ='first_db';
      
      function __constructor($host,$user,$password,$dbname){
         $this->host = $host;

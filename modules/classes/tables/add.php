@@ -1,5 +1,5 @@
 <?php
-require_once ("../connect.php");
+require_once ("/var/www/test.com/public_html/modules/classes/connect.php");
 
 // $ConnectToDatabaseObj = new ConnectToDatabase;
 // $ConnectToDatabaseObj->connectToDatafirst();

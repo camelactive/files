@@ -1,5 +1,5 @@
 <?php 
-
+require_once ("/var/www/test.com/public_html/modules/classes/connect.php");
 echo strtoupper( "this is update page");
 echo "<hr>";
 
@@ -18,7 +18,6 @@ foreach ($testarr as $key => $value) {
     echo $value; 
     echo "<br>";
 }
-
 ?>
 <style>
     
